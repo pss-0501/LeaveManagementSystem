@@ -52,7 +52,6 @@ public class LeaveTypesService(ApplicationDbContext _context, IMapper _mapper) :
         await _context.SaveChangesAsync();
     }
 
-
     public bool LeaveTypeExists(int id)
     {
         return _context.LeaveTypes.Any(e => e.Id == id);
