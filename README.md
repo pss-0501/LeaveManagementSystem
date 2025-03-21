@@ -88,6 +88,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is for educational purposes as part of the associated Udemy course.
 
 ---
-```
-
-Let me know if you’d like a badge section or demo screenshots added!
