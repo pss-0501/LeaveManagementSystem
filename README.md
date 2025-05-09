@@ -34,7 +34,7 @@ If you're interested in learning how to build modern web applications using ASP.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/trevoirwilliams/LeaveManagementSystem.git
+git clone https://github.com/pss-0501/LeaveManagementSystem.git
 cd LeaveManagementSystem
 ```
 
